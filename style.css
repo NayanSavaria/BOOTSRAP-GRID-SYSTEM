@@ -1,0 +1,14 @@
+.card{
+    border-radius: 16px;
+}
+
+.round-16{
+    border-radius: 16px;
+}
+.link{
+    text-decoration: none;
+}
+
+.img-90{
+    height: 100px;
+}
